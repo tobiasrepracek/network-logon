@@ -1,1 +1,1 @@
-After you successfully set-up an server by files in the "server" folder above, you can just get that "logger.bat" file and copy it into windows's startup directory (access via Win+R and type "shell:startup")
+After you successfully set-up an server by files in the "server" folder above, you can just get that "logger.bat" file and copy it into windows's startup directory (access via Win+R and type "shell:startup") and then change it's address that it's using for curl to whatever IP your server runs on.
